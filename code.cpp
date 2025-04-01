@@ -20,7 +20,7 @@ const int LCD_D5 = A0;
 const int LCD_D6 = A1;
 const int LCD_D7 = A2;
 
-const int postiTotali = 50;
+const int postiTasdsadasdotali = 50;
 int postiOccupati = 0;
 
 Servo sbarra;
